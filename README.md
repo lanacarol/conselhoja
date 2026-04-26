@@ -139,7 +139,7 @@ A aplicação possui:
 
 A arquitetura do aplicativo foi organizada em cinco partes principais: criação do projeto em Flutter, consumo de APIs externas, desenvolvimento da interface, integração com Firebase Firestore e geração do APK para testes.
 
-![Arquitetura da aplicação](assets/images/arquitetura_conselhoja.png)
+![Arquitetura da aplicação](assets/images/arquitetura_conselhoja.png.png)
 
 ---
 
