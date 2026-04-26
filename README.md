@@ -137,19 +137,9 @@ A aplicação possui:
 
 ## 🧱 Arquitetura da aplicação
 
-A aplicação foi organizada em **três partes principais**:
+A arquitetura do aplicativo foi organizada em cinco partes principais: criação do projeto em Flutter, consumo de APIs externas, desenvolvimento da interface, integração com Firebase Firestore e geração do APK para testes.
 
-### 1. Interface (UI)
-Responsável por exibir os dados na tela e receber as ações do usuário.
-
-### 2. Serviços (APIs)
-Responsável por consumir as APIs externas:
-
-- Advice Slip API
-- MyMemory Translation API
-
-### 3. Persistência em Nuvem (Firebase Firestore)
-Responsável por armazenar e recuperar os conselhos salvos.
+![Arquitetura da aplicação](assets/images/arquitetura_conselhoja.png)
 
 ---
 
