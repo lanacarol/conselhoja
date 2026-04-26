@@ -89,6 +89,25 @@ O projeto utiliza **Firebase Firestore** para armazenar os conselhos favoritos d
 
 ## 📱 Interface do aplicativo
 
+---
+
+## 📸 Prints do aplicativo
+
+### Página inicial
+![Página inicial](assets/images/paginicial.jpeg)
+
+### Exibição de conselho
+![Exibição de conselho](assets/images/frase.jpeg)
+
+### Conselho traduzido
+![Conselho traduzido](assets/images/traduzido.jpeg)
+
+### Conselho salvo no Firebase
+![Conselho salvo no Firebase](assets/images/salvonofire.jpeg)
+
+### Tela de conselhos salvos
+![Tela de conselhos salvos](assets/images/conselhossalvos.jpeg)
+
 A aplicação possui:
 
 - tela principal com layout moderno;
