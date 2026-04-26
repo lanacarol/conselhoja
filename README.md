@@ -163,7 +163,7 @@ Para testar o aplicativo, basta baixar e instalar o APK disponibilizado no link 
 
 ### APK para Android
 
-[Baixar APK](https://na01.safelinks.protection.outlook.com/?url=https://api.flutlab.io/projects/3370183/download-app?key=zrgcsop4wksctkvybl2j&target=android-arm64&data=05|02||d63e58d3cd5340c69b9e08dea3cdd2b4|84df9e7fe9f640afb435aaaaaaaaaaaa|1|0|639128301551360139|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ==|0|||&sdata=uR71m/jFGDpO4Jm+3pUIpF3TBB08yaFBZvG5bqM/aY0=&reserved=0)
+[Baixar APK](https://api.flutlab.io/projects/3370183/download-app?key=zrgcsop4wksctkvybl2j&target=android-arm64)
 
 ### Como instalar
 
